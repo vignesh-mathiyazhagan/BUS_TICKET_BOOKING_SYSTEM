@@ -1,2 +1,5 @@
-# BUS_TICKET_BOOKING_SYSTEM
-Bus Reservation System is a console-based Java application that allows users to view buses, book tickets, cancel tickets, and store reservation details in a MySQL database using JDBC
+Developed a console-based bus reservation application using Java and JDBC.
+Implemented ticket booking, cancellation, and passenger management features.
+Connected application with MySQL database for persistent data storage.
+Used PreparedStatement and ResultSet for efficient database operations.
+Applied OOP principles and exception handling for robust application design.
